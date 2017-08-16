@@ -10,7 +10,11 @@
 }
 
 button{
-    width: 60px;
+    width: 80px;
     height: 30px;
+    display: block;
+    padding: 4px;
+    margin: 15px auto;
+    /* width: 50px; */
 }
 
